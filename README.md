@@ -15,7 +15,7 @@
 
   Micro is a fully responsive Podcast website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/micro/"><strong>➥ Live Demo</strong></a>
+  <a href="https://microsonicmusic.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -50,7 +50,7 @@ git clone https://github.com/codewithsadee/micro.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://wa.me/+2348087112167/).
 
 ### License
 
